@@ -1,11 +1,11 @@
 {
-    "name": "my_awesome_namer",
-    "short_name": "my_awesome_namer",
+    "name": "un_formulario",
+    "short_name": "un_formulario",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Write your first Flutter app",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
